@@ -1,8 +1,7 @@
 ### Hi there, I'm Patricio Pérez 👋
 
 ## I'm a Chilean Student.
-- 📓 I'm currently studing Industrial Engineering at Universidad de Chile
-- 🔭 I’m currently doing an internship at Banco Ripley
+- 📓 I'm in Industrial Engineering at Universidad de Chile
 - 🌱 I’m currently learning Data Science and Analytics 🤣
 - 👯 I’m looking to collaborate with other students
 - 🥅 2030 Goals: Give impact to society
