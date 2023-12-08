@@ -1,9 +1,9 @@
 ### Hi there, I'm Patricio Pérez 👋
 
-## I'm a Chilean Student.
-- 📓 I'm in Industrial Engineering at Universidad de Chile
+## I'm a Chilean Data Scientist.
+- 📓 I studied Industrial Engineering at Universidad de Chile
 - 🌱 I’m currently learning Data Science and Analytics 🤣
-- 👯 I’m looking to collaborate with other students
+- 👯 I’m looking to collaborate with other profesionals
 - 🥅 2030 Goals: Give impact to society
 - ⚡ Fun fact: I love food, gym, and listening to music
 
